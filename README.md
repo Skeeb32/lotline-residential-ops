@@ -2,7 +2,7 @@
 
 Lotline is a portfolio operations demo for a fictional residential investment team. It brings property status, capital funding, occupancy, operations work, and an upcoming distribution into one operating view.
 
-**All names, properties, balances, dates, and performance figures are fictional demo data.** This project is not affiliated with mogul and does not process investments or payments.
+**All names, properties, balances, dates, and performance figures are fictional demo data.** This project is not affiliated with any AI real estate investment company and does not process investments or payments.
 
 ## What it demonstrates
 
